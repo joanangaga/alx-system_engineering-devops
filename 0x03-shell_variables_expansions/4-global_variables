@@ -1,2 +1,2 @@
-#!/bin/ban
-printev
+#!/bin/bash
+printenv
